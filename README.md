@@ -12,4 +12,4 @@ Resolvemos el sistema con las condiciones:
 
 <img src="https://render.githubusercontent.com/render/math?math=I_{ext} = 0.5, a = 0.7, b = 0.8">
 
-También graficamos el Atractor de Rössler usando el mismo método numérico.
+También graficamos el Atractor de Rössler usando el mismo método numérico (Rossler.py).
