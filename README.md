@@ -1,6 +1,6 @@
 # EcuacionesDiferencialesII
 
-Problema resuelto numéricamente del curso de Ecuaciones Diferenciales II usando el método de Runge-Kutta de 4to orden (problema12.py).
+Problemas resueltos numéricamente del curso de Ecuaciones Diferenciales II usando el método de Runge-Kutta de 4to orden (problema12.py).
 
 Es un sistema de ecuaciones diferenciales que modela el comportamiento de las neuronas, 
 el programa muestra la gráfica del espacio fase. Las ecuaciones son las siguientes:
