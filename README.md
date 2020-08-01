@@ -5,8 +5,8 @@ Problema resuelto numéricamente del curso de Ecuaciones Diferenciales II usando
 Es un sistema de ecuaciones diferenciales que modela el comportamiento de las neuronas, 
 el programa muestra la gráfica del espacio fase. Las ecuaciones son las siguientes:
 
-<img src="https://render.githubusercontent.com/render/math?math=v' = w + v - \frac{v^{3}}{3} + I_{ext}">
-<img src="https://render.githubusercontent.com/render/math?math=w' = -v + a - bw">
+<img src="https://render.githubusercontent.com/render/math?math=v' = w+v - \frac{v^{3}}{3} + I_{ext}">
+<img src="https://render.githubusercontent.com/render/math?math=w' = -v+a - bw">
 
 Resolvemos el sistema con las condiciones:
 
