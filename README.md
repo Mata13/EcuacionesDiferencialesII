@@ -1,0 +1,3 @@
+# EcuacionesDiferencialesII
+
+$y = sin(x)$
